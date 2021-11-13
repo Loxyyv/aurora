@@ -1,0 +1,32 @@
+{
+  "OKUMADANGECME": "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+  "OKUMADANGECME2": "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+  "OKUMADANGECME3": "BOT BAZEN HATA ÇIKARDIĞI İÇİN HOŞ GELDİN EMOJİLERİ KALDIRILMIŞTIR.",
+
+  "sahip": "693526720354975786",
+  "prefix": ".",
+  "footer": "Aurora Welcome",
+
+  "tag": "ꁴ",
+  "sembol": "•",
+
+  "yetkiliRol": [
+    "878422865643466792",
+    "2. YOKSA BOŞ BIRAK",
+    "3. YOKSA BOŞ BIRAK"
+  ],
+  "vipRol": "VIP ROL ID",
+  "boosterRol": "878429012832157767",
+  "kayıtsızRol": "878450938736697404",
+  "erkekRol1": "906601824285495307",
+  "erkekRol2": "878425680155656222",
+  "kadınRol1": "878425008895062046",
+  "kadınRol2": "906602219082752022",
+
+  "hosgeldinKanal": "HOS GELDİN KANAL ID",
+  "sohbetKanal": "878425189367562340",
+  "botSesKanal": "878423873463390228",
+
+  "yes": "<a:cyclone:906625835514069042>",
+  "no": "<a:cyclone:906625835514069042>"
+}
